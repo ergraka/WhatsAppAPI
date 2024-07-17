@@ -1,0 +1,13 @@
+D:\WhatsappAPI\API\WhatsAppAPI\obj\Release\net6.0\PubTmp\Out\WhatsAppAPI.exe
+D:\WhatsappAPI\API\WhatsAppAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\WhatsappAPI\API\WhatsAppAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\WhatsappAPI\API\WhatsAppAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Production.json
+D:\WhatsappAPI\API\WhatsAppAPI\obj\Release\net6.0\PubTmp\Out\WhatsAppAPI.dll
+D:\WhatsappAPI\API\WhatsAppAPI\obj\Release\net6.0\PubTmp\Out\WhatsAppAPI.deps.json
+D:\WhatsappAPI\API\WhatsAppAPI\obj\Release\net6.0\PubTmp\Out\WhatsAppAPI.runtimeconfig.json
+D:\WhatsappAPI\API\WhatsAppAPI\obj\Release\net6.0\PubTmp\Out\WhatsAppAPI.pdb
+D:\WhatsappAPI\API\WhatsAppAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\WhatsappAPI\API\WhatsAppAPI\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\WhatsappAPI\API\WhatsAppAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\WhatsappAPI\API\WhatsAppAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WhatsappAPI\API\WhatsAppAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
